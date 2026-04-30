@@ -31,6 +31,8 @@ Avoid approving risky applicants while keeping approvals meaningful.
 - Recall: ~0.73
 - F1 Score: ~0.76
 
+![Model Output](Screenshot%202026-04-30%20175642.png)
+
 Confusion Matrix:
 [[128 11]
  [ 16 45]]
