@@ -25,6 +25,18 @@ Avoid approving risky applicants while keeping approvals meaningful.
 * Precision: **~0.80**
 * Reduced false positives
 
+
+- Best Model: Naive Bayes
+- Precision: ~0.80
+- Recall: ~0.73
+- F1 Score: ~0.76
+
+Confusion Matrix:
+[[128 11]
+ [ 16 45]]
+
+👉 False positives minimized successfully
+
 ## 📈 Key Insight
 
 Domain-based features > polynomial features
